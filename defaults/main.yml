@@ -1,9 +1,9 @@
 ---
 # Antigen version number
-antigen_version: '2.0.2'
+antigen_version: '2.2.3'
 
 # SHA256 sum for the redistributable package
-antigen_redis_sha256sum: 'f47ec933b32c578abe8cb39b24e0ddd114ef5cc01b3c05bcb634859ead31493f'
+antigen_redis_sha256sum: 'bd3f1077050d52f459bc30fa3f025c44c528d625b4924a2f487fd2bacb89d61e'
 
 # Should Oh-My-Zsh be installed with Antigen (doesn't call `antigen use`)
 antigen_install_oh_my_zsh: yes
